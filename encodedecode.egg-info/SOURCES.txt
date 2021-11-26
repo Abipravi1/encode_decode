@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+encodedecode/__init__.py
+encodedecode.egg-info/PKG-INFO
+encodedecode.egg-info/SOURCES.txt
+encodedecode.egg-info/dependency_links.txt
+encodedecode.egg-info/top_level.txt
